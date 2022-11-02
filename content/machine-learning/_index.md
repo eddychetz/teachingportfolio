@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 🤖 Machine Learning
-linktitle: 🤖 Machine Learning
+title: Teaching Portfolio
+linktitle: Teaching Portfolio
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 # icon: book
