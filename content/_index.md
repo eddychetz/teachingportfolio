@@ -1,5 +1,5 @@
 ---
-title: ✍️ Second Brain
+title:  Second Brain
 date: 2022-09-24
 toc: false
 
@@ -17,12 +17,14 @@ The **Second Brain** starter template empowers you to easily create **personal n
 - Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
 
 ```markmap {height="200px"}
-- Second Brain
-  - **powerful** knowledge base
-  - **easy**: just plain text Markdown files
-  - all your thoughts are **connected**
-  - highly **extensible**
-  - **future-proof** & open source ❤️
+- Teaching portfolio
+  - Vision 
+  - Course Design
+  - Teaching and Learning Strategies
+  - Students' Assessments
+  - Academic Community Participation
+  - Self Evaluation
+  - Future Plans
 ```
 
 ## Public vs Private Second Brain
