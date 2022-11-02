@@ -13,4 +13,5 @@ My approach to teaching and learning is very unique and vary from one module to 
 When conducting the lecture in an online environment, students are required to give feedback privately when they are given tasks to do. This helps with control of the lesson to avoid disruptions in thinking to students that are slow a bit. Once the majority of the students provide feedback, one of the students is voluntarily selected to share the feedback with the entire class. This enables students to understand better when explained by their peers. This teaching approach is mostly employed in both online and face-to-face environments when teaching theoretical subjects such as Applied Mathematics 281 and Machine Learning 381.
 
 Have fun
+
         ```The best way to learn something is to play with it.```
